@@ -29,10 +29,18 @@ The project cleanly separates **board logic**, **solver**, and **user interface*
 
 ## 📂 Project Structure
 ├── SudokuBoard.hpp # Board representation & basic I/O
+
 ├── SudokuBoard.cpp
+
 ├── SudokuSolver.hpp # Backtracking solver
+
 ├── SudokuSolver.cpp
+
 ├── SudokuGame.hpp # Console interface / game loop
+
 ├── SudokuGame.cpp
+
 ├── main.cpp # Entry point
+
 └── CMakeLists.txt # Build instructions
+
